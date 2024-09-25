@@ -37,4 +37,7 @@ The user interface is displayed in a simple, rudimentary CUI (Character User Int
    
    `python main.py`
 
-4. Choose your role (Student or Admin) and follow the on-screen instructions to access relevant functionalities. 
+3. Choose your role (Student or Admin) and follow the on-screen instructions to access relevant functionalities.
+
+For more information, please refer to the project report.
+   
