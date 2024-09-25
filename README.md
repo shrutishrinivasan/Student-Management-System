@@ -3,7 +3,8 @@
 <p align="justify">
 The Student Management System is a user-friendly application built using Python and leverages Pickle for data serialization. The system includes dual login functionality for students and administrators, offering distinct access levels to ensure data security and ease of use. 
 The project provides a comprehensive solution for managing student information, enrollment, attendance, and performance, along with administrative control for data analysis and report generation.
-
+</p>
+<p align="justify">
 The user interface is displayed in a simple, rudimentary CUI (Character User Interface) form with user navigation and other functionalities all accessible from the same.
 </p>
 
